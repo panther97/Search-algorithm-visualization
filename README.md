@@ -6,7 +6,7 @@
 <h2><a href="https://algosearch.netlify.app/">Project Link: algosearch.netlify.app</a>
 </h2>
 
-<img width="100%" src="https://github.com/Rikki407/gifs/blob/main/merged-algosearch.gif"/>
+![merged-algosearch](https://user-images.githubusercontent.com/22273562/152834443-86b8d9c3-55c2-40cd-b3a4-443ca0bfe2e0.gif)
 
 
 <h3>Steps to Run</h3>
